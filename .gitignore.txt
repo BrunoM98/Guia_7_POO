@@ -1,4 +1,7 @@
-build
+.pdf
+.jpeg
 nbproject
-test
 build
+manifest
+.xml
+.mf
